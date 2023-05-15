@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: palevioletred;
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+hr {
+    background-color: brown;
+    height: 1.5px;
+}
+p{
+    color: royalblue;
+}
+ul{
+    color: royalblue;
+}
+a{
+    color: red;
+}
+.Bold {
+    color: brown;
+    font-weight: bold;
+}
